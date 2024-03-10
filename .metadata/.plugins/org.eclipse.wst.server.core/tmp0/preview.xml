@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="Ebook-App" name="Tender-App" path="/Users/mac/Desktop/Development/TenderMS/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/Tender-App" type="j2ee"/>
+</server>

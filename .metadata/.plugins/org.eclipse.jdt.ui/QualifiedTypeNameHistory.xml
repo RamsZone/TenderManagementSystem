@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.jdi.connect.spi.Connection"/>
+    <fullyQualifiedTypeName name="com.entity.User"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.MultipartConfig"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.Part"/>
+    <fullyQualifiedTypeName name="com.entity.NoticeDtls"/>
+    <fullyQualifiedTypeName name="com.DAO.NoticeDAOImpl"/>
+    <fullyQualifiedTypeName name="com.entity.Bid"/>
+    <fullyQualifiedTypeName name="com.DAO.BidDAOImpl"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="com.DAO.CartDAOImpl"/>
+    <fullyQualifiedTypeName name="com.entity.Cart"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.entity.Tender_Order"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.DAO.UserDAOImpl"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="com.DAO.TenderOrderImpl"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.DAO.TenderDAOImpl"/>
+    <fullyQualifiedTypeName name="com.entity.Tenderdtls"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.DAO.ForumDAOImpl"/>
+    <fullyQualifiedTypeName name="com.entity.Forum_Order"/>
+    <fullyQualifiedTypeName name="com.DAO.MessageDAOImpl"/>
+    <fullyQualifiedTypeName name="com.DB.DBConnect"/>
+    <fullyQualifiedTypeName name="java.sql.Timestamp"/>
+    <fullyQualifiedTypeName name="com.entity.Message"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="javax.naming.NamingException"/>
+    <fullyQualifiedTypeName name="com.DAO.ChatMessageDAO"/>
+    <fullyQualifiedTypeName name="com.entity.ChatMessage"/>
+</qualifiedTypeNameHistroy>
